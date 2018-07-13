@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">shareTest</string>
+    <string name="inputname">请输入用户名</string>
+    <string name="inputcode">请输入密码</string>
+    <string name="savepassword">保存密码</string>
+    <string name="login">登录</string>
+</resources>
